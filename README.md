@@ -9,7 +9,7 @@ The service was elaborated using mainly:
 * Lombok
 * etc
 
-##Required tools
+## Required tools
 
 * JDK 8.0 (or higher)
 * Maven 3.5.0 (or higher)
