@@ -49,7 +49,7 @@ The service was elaborated using mainly:
 - If the container crashes it will be restarted automatically by docker-compose.
 - The service uses hazel cast as cache manager in order to keep the service working if the third-party api is down
 - The second fallback strategy is to use the circuit break implementation from hytrix and load a statical response on fallback to give
-a result to the end user while the doesn't re-establish.
+a result to the end user while the third-party api does not re-establish.
 So the service continuing responsive even 
 *NOTE: This response will not be cached, because if the third-party returns to work the user can retrieve an updated data*
 
