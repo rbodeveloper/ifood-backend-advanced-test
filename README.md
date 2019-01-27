@@ -34,7 +34,7 @@ The service was elaborated using mainly:
 2. mvn clean install
 3. mvn spring-boot:run
 
-##API calls example
+## API calls example
 ### Endpoint to get music recommendation given the city:
 > curl -X GET \
   'http://127.0.0.1:8443/recommendation/city?city=campinas' \
@@ -45,7 +45,7 @@ The service was elaborated using mainly:
   'http://127.0.0.1:8443/recommendation/geolocation?lat=50&lon=-5000' \
   -H 'cache-control: no-cache'
 
-##Fallback strategies
+## Fallback strategies
 - If the container crashes it will be restarted automatically by docker-compose.
 - The service uses hazel cast as cache manager in order to keep the service working if the third-party api is down
 - The second fallback strategy is to use the circuit break implementation from hytrix and load a statical response on fallback to give
