@@ -1,0 +1,712 @@
+{
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/categories/classical/playlists?offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWV0gynK7G6pD"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWV0gynK7G6pD",
+        "id": "37i9dQZF1DWV0gynK7G6pD",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/39f0f454766c7b03cf1f5e572b17e029dc0e467b",
+            "width": null
+          }
+        ],
+        "name": "Classical New Releases: Spotify Picks",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODQyMjAxMSwwMDAwMDBjNjAwMDAwMTY4ODUyNGQ5ZWYwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWV0gynK7G6pD/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWV0gynK7G6pD"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX21bRPJuEN7r"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX21bRPJuEN7r",
+        "id": "37i9dQZF1DX21bRPJuEN7r",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/b84599131b8491bc1ea2481727b579061870f2e1",
+            "width": null
+          }
+        ],
+        "name": "Composer Weekly: Eleni Karaindrou",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODA1MTY4NSwwMDAwMDA5ZTAwMDAwMTY4NmYxMjIyNjgwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX21bRPJuEN7r/tracks",
+          "total": 30
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX21bRPJuEN7r"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0DHxkHcf1Tl"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0DHxkHcf1Tl",
+        "id": "37i9dQZF1DX0DHxkHcf1Tl",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/79c1e459a7976ed348574f91c9ca9191581b8d93",
+            "width": null
+          }
+        ],
+        "name": "Symphonies: Where To Start",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAwNDAwMDAwMTVmYjVhNTEyNzIwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0DHxkHcf1Tl/tracks",
+          "total": 228
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0DHxkHcf1Tl"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXabrEiRjQMgs"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXabrEiRjQMgs",
+        "id": "37i9dQZF1DXabrEiRjQMgs",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/e5c1adc0ed70dec13c9d3877176a0d1fc11baaa4",
+            "width": null
+          }
+        ],
+        "name": "Classical Dance Music: Ballet & Beyond",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAxYjAwMDAwMTVkYzZlODM5ZDcwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXabrEiRjQMgs/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXabrEiRjQMgs"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0z6CeZuw5dA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0z6CeZuw5dA",
+        "id": "37i9dQZF1DX0z6CeZuw5dA",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/5c18359946eac7851395d22867954c60143566f3",
+            "width": null
+          }
+        ],
+        "name": "Folk-inspired Classical Music",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAwNzAwMDAwMTVmZmQ4OGVhZDMwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0z6CeZuw5dA/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0z6CeZuw5dA"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUqIzZNMSCv3"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUqIzZNMSCv3",
+        "id": "37i9dQZF1DWUqIzZNMSCv3",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/b41c71e276d101b9ad3b2af58355141edd43ee91",
+            "width": null
+          }
+        ],
+        "name": "Gentle Piano Concertos",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAwYzAwMDAwMTVmMzNkMzAyMzUwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUqIzZNMSCv3/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWUqIzZNMSCv3"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbrSeoLHavML"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbrSeoLHavML",
+        "id": "37i9dQZF1DXbrSeoLHavML",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/f95a4e9fe1652b1717db20de540b7c2142cf378f",
+            "width": null
+          }
+        ],
+        "name": "String Quartet 101",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAwOTAwMDAwMTVmZDBlM2M4ZjAwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbrSeoLHavML/tracks",
+          "total": 101
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXbrSeoLHavML"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWEJlAGA9gs0",
+        "id": "37i9dQZF1DWWEJlAGA9gs0",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/3f48aae3f3e2b8aaf6c424747b795b9171b05988",
+            "width": null
+          }
+        ],
+        "name": "Classical Essentials",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAyOTAwMDAwMTYwZmExODYxZjAwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWEJlAGA9gs0/tracks",
+          "total": 101
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWWEJlAGA9gs0"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9OZisIoJQhG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9OZisIoJQhG",
+        "id": "37i9dQZF1DX9OZisIoJQhG",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/bba2bdff8c2b4f9c0bb9b9fc7ed936d4b10a568d",
+            "width": null
+          }
+        ],
+        "name": "Morning Classical",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAwOTAwMDAwMTYwZTQ4NjljYWYwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9OZisIoJQhG/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX9OZisIoJQhG"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8Sz1gsYZdwj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8Sz1gsYZdwj",
+        "id": "37i9dQZF1DX8Sz1gsYZdwj",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/81f1dc288782b77f81311db303d05392c70f1938",
+            "width": null
+          }
+        ],
+        "name": "Classical Lullabies",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAyOTAwMDAwMTYxMTEyNjUzZjUwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8Sz1gsYZdwj/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8Sz1gsYZdwj"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUvHZA1zLcjW"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUvHZA1zLcjW",
+        "id": "37i9dQZF1DWUvHZA1zLcjW",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/5e5e81318e6bd112ab0f86de8096c3ad44de887d",
+            "width": null
+          }
+        ],
+        "name": "Chilled Classical",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUzMjYxODUzMywwMDAwMDAxMTAwMDAwMTY0ZDcyZWU5NTEwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUvHZA1zLcjW/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWUvHZA1zLcjW"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0Aaer4Jzfgm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0Aaer4Jzfgm",
+        "id": "37i9dQZF1DX0Aaer4Jzfgm",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/68a8e45f01abde94cd2b39d578a7e45936c713d5",
+            "width": null
+          }
+        ],
+        "name": "Easy Classical",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUzMjk1NjcwOCwwMDAwMDAwNjAwMDAwMTY0ZWI1NzBmNjgwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0Aaer4Jzfgm/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0Aaer4Jzfgm"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVidGk00tysG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVidGk00tysG",
+        "id": "37i9dQZF1DWVidGk00tysG",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/eba500a278daa9217e929b7bc863da404d3ebb8e",
+            "width": null
+          }
+        ],
+        "name": "Chopin Piano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0MzM1NjkxMSwwMDAwMDAwYzAwMDAwMTY3NTczZDkxMTMwMDAwMDE2NzJjN2I4Nzlk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVidGk00tysG/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVidGk00tysG"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUPafHP1BJw1",
+        "id": "37i9dQZF1DWUPafHP1BJw1",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/09cee02f51ccc21221fc6d712e7bdd8a5d4452e8",
+            "width": null
+          }
+        ],
+        "name": "Pop Goes Classical",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNjYyOTY2NSwwMDAwMDAxMjAwMDAwMTYzNzIzODBhNzYwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUPafHP1BJw1/tracks",
+          "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWUPafHP1BJw1"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUwJtOwikfWr"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUwJtOwikfWr",
+        "id": "37i9dQZF1DWUwJtOwikfWr",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/16d1f7379219d69dace99d1a4189c93b5e9c7acd",
+            "width": null
+          }
+        ],
+        "name": "Intense Studying: Mixtape Edition",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUzMzI5MjMyNywwMDAwMDAwNTAwMDAwMTY0ZmY1ODMxMWYwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUwJtOwikfWr/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWUwJtOwikfWr"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXBq4mDDFnfA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXBq4mDDFnfA",
+        "id": "37i9dQZF1DWXBq4mDDFnfA",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/ad99503c408279f2c117b658c19e5df0e35f2a00",
+            "width": null
+          }
+        ],
+        "name": "Classical Guitar 50: Spotify Picks",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAwYTAwMDAwMTYwNGFlNDk2NDAwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXBq4mDDFnfA/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWXBq4mDDFnfA"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7cBprxbt1Fn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7cBprxbt1Fn",
+        "id": "37i9dQZF1DX7cBprxbt1Fn",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/51da7e74d5a0cb46c1b95a2eeb01d039e8ceddf3",
+            "width": null
+          }
+        ],
+        "name": "Gentle Classical: From Dusk till Dawn",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUzNTYzMzczNiwwMDAwMDAyYTAwMDAwMTY1OGFlNzQ0NTYwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7cBprxbt1Fn/tracks",
+          "total": 101
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7cBprxbt1Fn"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7KrTMVQnM02"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7KrTMVQnM02",
+        "id": "37i9dQZF1DX7KrTMVQnM02",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/6fa32e9369c147952942b60d4b40a37548daa400",
+            "width": null
+          }
+        ],
+        "name": "Quiet Moment",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0NjgyOTcwMywwMDAwMDAwNzAwMDAwMTY4MjYzYzJhYWUwMDAwMDE2MmZmMzdjOTM3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7KrTMVQnM02/tracks",
+          "total": 33
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7KrTMVQnM02"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9G9wwzwWL2k"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9G9wwzwWL2k",
+        "id": "37i9dQZF1DX9G9wwzwWL2k",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/61a6e1800b4e1c4dee0e44cd00ec86e2027479e3",
+            "width": null
+          }
+        ],
+        "name": "Epic Classical",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNDQ5MDEwMywwMDAwMDAyMjAwMDAwMTYxNmI0YmVlNTgwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9G9wwzwWL2k/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX9G9wwzwWL2k"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0i61tT0OnnK"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0i61tT0OnnK",
+        "id": "37i9dQZF1DX0i61tT0OnnK",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/c15ac6684adf5ea62e1478c4c9a0f98cb7a122e8",
+            "width": null
+          }
+        ],
+        "name": "Space-themed Classical Music",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0MjM1MzUxMSwwMDAwMDAxYTAwMDAwMTY3MWI2ZWUyNzEwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0i61tT0OnnK/tracks",
+          "total": 76
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0i61tT0OnnK"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/browse/categories/classical/playlists?offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 114
+  }
+}

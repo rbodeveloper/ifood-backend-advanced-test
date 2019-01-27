@@ -1,0 +1,712 @@
+{
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/categories/party/playlists?offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcRXFNfZr7Tp",
+        "id": "37i9dQZF1DXcRXFNfZr7Tp",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/e21abd6e7e70e3255856e6fdad6b73412e957d64",
+            "width": null
+          }
+        ],
+        "name": "TGIF",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODM5NjE5OCwwMDAwMDA2YjAwMDAwMTY4ODM5YWY5ODMwMDAwMDE2ODdlNDNmZmZm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcRXFNfZr7Tp/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXcRXFNfZr7Tp"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8ky12eWIvcW"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8ky12eWIvcW",
+        "id": "37i9dQZF1DX8ky12eWIvcW",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/b808f5f35355ee60f10519d3575f96f74cdabffb",
+            "width": null
+          }
+        ],
+        "name": "Throwback Jams",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNSwwMDAwMDAyNjAwMDAwMTY4NTZlOWViZDgwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8ky12eWIvcW/tracks",
+          "total": 93
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8ky12eWIvcW"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaXB8fQg7xif",
+        "id": "37i9dQZF1DXaXB8fQg7xif",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/f32383a4a46f4ee53846ddb8ead93c81d13120a2",
+            "width": null
+          }
+        ],
+        "name": "Dance Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNSwwMDAwMDBkNzAwMDAwMTY4NWQ2YTY2M2IwMDAwMDE2ODE1MDhjNzg1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaXB8fQg7xif/tracks",
+          "total": 39
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVcbzTgVpNRm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVcbzTgVpNRm",
+        "id": "37i9dQZF1DWVcbzTgVpNRm",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/99de0f475f84b7df97d90fedb1fa26be78163e3e",
+            "width": null
+          }
+        ],
+        "name": "Latin Party Anthems",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNSwwMDAwMDA1MTAwMDAwMTY4MGY2ZTE1ZTgwMDAwMDE2ODBmNmRkM2Yz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVcbzTgVpNRm/tracks",
+          "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVcbzTgVpNRm"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8a1tdzq5tbM",
+        "id": "37i9dQZF1DX8a1tdzq5tbM",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/52254e29d2c764f45be4d9e01cf58fa740590d8c",
+            "width": null
+          }
+        ],
+        "name": "Dance Classics",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNSwwMDAwMDAxZjAwMDAwMTY3YTNiYjU2NTYwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8a1tdzq5tbM/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8a1tdzq5tbM"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1YPTAhwehsC",
+        "id": "37i9dQZF1DX1YPTAhwehsC",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/28075fedbfc3043711c254b73652eaba8ac54103",
+            "width": null
+          }
+        ],
+        "name": "State of Mind",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODQzNDY3OCwwMDAwMDA2ZTAwMDAwMTY4ODVlNjIyMDcwMDAwMDE2ODVjMTRiOTcy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1YPTAhwehsC/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX1YPTAhwehsC"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdgnLr18vPvu"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdgnLr18vPvu",
+        "id": "37i9dQZF1DXdgnLr18vPvu",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/99ba15b327ee5995eb409c4fc24d63b93f4db643",
+            "width": null
+          }
+        ],
+        "name": "Tailgate Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNSwwMDAwMDAzODAwMDAwMTY4NTZlOWU1MWYwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdgnLr18vPvu/tracks",
+          "total": 54
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXdgnLr18vPvu"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0Uv9tZ47pWo"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0Uv9tZ47pWo",
+        "id": "37i9dQZF1DX0Uv9tZ47pWo",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/a57d09408b99c2aae6e17b0c711d3a9f392c0b63",
+            "width": null
+          }
+        ],
+        "name": "Girls' Night",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNSwwMDAwMDAzNjAwMDAwMTY4NTZlOWRiYTUwMDAwMDE2NGViOTMzZTYy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0Uv9tZ47pWo/tracks",
+          "total": 65
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0Uv9tZ47pWo"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX68x6hand0cN"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX68x6hand0cN",
+        "id": "37i9dQZF1DX68x6hand0cN",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/03d5f90273bccc9caaebfcdbd0c421dd6c7c1920",
+            "width": null
+          }
+        ],
+        "name": "Shisha Lounge",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNiwwMDAwMDA4YjAwMDAwMTY4OGRjMTE0MjYwMDAwMDE2NDQ2ODY0ODY2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX68x6hand0cN/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX68x6hand0cN"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8FwnYE6PRvL"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8FwnYE6PRvL",
+        "id": "37i9dQZF1DX8FwnYE6PRvL",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/956c45784537ebe8136dbc4c362305b383e54e8d",
+            "width": null
+          }
+        ],
+        "name": "Rock Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNCwwMDAwMDAyYjAwMDAwMTY2MjBhNTQ1NDMwMDAwMDE2NGIyOTU2MDI0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8FwnYE6PRvL/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8FwnYE6PRvL"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTmGGCbcoQhY"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTmGGCbcoQhY",
+        "id": "37i9dQZF1DWTmGGCbcoQhY",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/88b17092794e3360838154d23f37781efd708198",
+            "width": null
+          }
+        ],
+        "name": "Cumbia Sonidera",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNiwwMDAwMDA2NjAwMDAwMTY4NTc2Zjg0Y2IwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTmGGCbcoQhY/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWTmGGCbcoQhY"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXan38dNVDdl4"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXan38dNVDdl4",
+        "id": "37i9dQZF1DXan38dNVDdl4",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/d1825f65d05d26cbccef7ab9feff1f9578ff55ac",
+            "width": null
+          }
+        ],
+        "name": "Dancehall Official",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODQ2OTUzOSwwMDAwMDA2ODAwMDAwMTY4ODdmYTExM2YwMDAwMDE2N2E0YmE5MjI3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXan38dNVDdl4/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXan38dNVDdl4"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdnGF35OawbN"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdnGF35OawbN",
+        "id": "37i9dQZF1DXdnGF35OawbN",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/e1eaa6f28665799983e351be152d5cd4156e07a9",
+            "width": null
+          }
+        ],
+        "name": "Verano Forever",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNiwwMDAwMDA5YTAwMDAwMTY4NTZlYzdhMTUwMDAwMDE2NTQ1MjBjZmQ0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdnGF35OawbN/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXdnGF35OawbN"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXauOWFg72pbl"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXauOWFg72pbl",
+        "id": "37i9dQZF1DXauOWFg72pbl",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/82b479f448feee234842e3cd5118130c61d315fc",
+            "width": null
+          }
+        ],
+        "name": "Beer & Wings",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUzNDI3NDQ3MSwwMDAwMDAyMDAwMDAwMTY1MzllMjg3N2EwMDAwMDE2NTM5ZTIzNmU1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXauOWFg72pbl/tracks",
+          "total": 84
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXauOWFg72pbl"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4RDXswvP6Mj",
+        "id": "37i9dQZF1DX4RDXswvP6Mj",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/aec5c1f15cc23c4da37c0478432a0fbe2da6136b",
+            "width": null
+          }
+        ],
+        "name": "K-Party Dance Mix",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNSwwMDAwMDEyMzAwMDAwMTY4MGRmN2NhZGQwMDAwMDE2NzA3MDAyMzFl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4RDXswvP6Mj/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4RDXswvP6Mj"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7ZBNMYyfRfh"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7ZBNMYyfRfh",
+        "id": "37i9dQZF1DX7ZBNMYyfRfh",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/fe3c78c1599b1c040e0c183739fc1769364302f9",
+            "width": null
+          }
+        ],
+        "name": "Jukebox Joint",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTUyNTkwMjI3MywwMDAwMDAxNTAwMDAwMTYzNDZkY2VjN2EwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7ZBNMYyfRfh/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7ZBNMYyfRfh"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVY4eLfA3XFQ",
+        "id": "37i9dQZF1DWVY4eLfA3XFQ",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/163663b22cdcbf8fd57a6d8b9633a936f07f9bb0",
+            "width": null
+          }
+        ],
+        "name": "Swag House",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0NTMxODMxNSwwMDAwMDAyMjAwMDAwMTY3Y2MyNjM3YmEwMDAwMDE2MmY0NWYyMzY3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVY4eLfA3XFQ/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVY4eLfA3XFQ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0IlCGIUGBsA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0IlCGIUGBsA",
+        "id": "37i9dQZF1DX0IlCGIUGBsA",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/97d68367b309c1b3792bb671ff46d3176a9a1210",
+            "width": null
+          }
+        ],
+        "name": "Ultimate Party Classics",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjE0MiwwMDAwMDAyMzAwMDAwMTY3YmJhNWM1MzgwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0IlCGIUGBsA/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0IlCGIUGBsA"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUq3wF0JVtEy"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUq3wF0JVtEy",
+        "id": "37i9dQZF1DWUq3wF0JVtEy",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/6325b2cde49483d2b4295d65a0ab1f893c97cf84",
+            "width": null
+          }
+        ],
+        "name": "Shuffle Syndrome",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0NTMxODI4OSwwMDAwMDA1MTAwMDAwMTY3Y2MyNWNlOGEwMDAwMDE2NTg3MDQ3MjEy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUq3wF0JVtEy/tracks",
+          "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWUq3wF0JVtEy"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWYOkVTse9lln"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYOkVTse9lln",
+        "id": "37i9dQZF1DWYOkVTse9lln",
+        "images": [
+          {
+            "height": null,
+            "url": "https://pl.scdn.co/images/pl/default/07948457a9df3696da25ebd11450bfe01f0665f9",
+            "width": null
+          }
+        ],
+        "name": "Karaoke en Español",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU0ODU5MjEyNiwwMDAwMDAxMDAwMDAwMTY4Mzk5YTJiZDIwMDAwMDE2Nzk5MDlmZDM5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYOkVTse9lln/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWYOkVTse9lln"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/browse/categories/party/playlists?offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 46
+  }
+}

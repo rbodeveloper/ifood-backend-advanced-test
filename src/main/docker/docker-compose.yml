@@ -1,0 +1,13 @@
+version: "2.1"
+
+services:
+  ifood:
+    restart: always
+    image: ifood
+    environment:
+    - SPOTIFY_CLIENT_SECRET=2890cf2e386748a192f279a02f19b478
+    - SPOTIFY_CLIENT_ID=b1c7580dbef94d3baca0d0c3f9089620
+    - OPEN_WEATHER_API_KEY=09abf99ca0af934509dc4396a575facc
+    build: .
+    ports:
+    - "8443:8443"

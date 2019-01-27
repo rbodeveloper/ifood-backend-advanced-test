@@ -1,0 +1,19 @@
+server:
+  port: ${APP_SERVER_PORT:8443}
+spring.main.web-environment: false
+open-weather:
+  base-url: ${OPEN_WEATHER_BASE_URL:http://api.openweathermap.org/data/2.5}
+  api-key: ${OPEN_WEATHER_API_KEY}
+spotify:
+  base-url: ${SPOTIFY_BASE_URL:https://api.spotify.com/v1}
+  auth-url: ${SPOTIFY_AUTH_URL:https://accounts.spotify.com/api/token}
+  client-id: ${SPOTIFY_CLIENT_ID}
+  client-secret: ${SPOTIFY_CLIENT_SECRET}
+security:
+  ignored: /**
+feign:
+  hystrix:
+    enabled: true
+
+hystrix:
+  command.default.execution.isolation.thread.timeoutInMilliseconds: ${HYSTRIX_TIMEOUT:4000}
